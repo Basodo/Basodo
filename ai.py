@@ -54,7 +54,7 @@ while takecommand == True:
     with sr.Microphone() as mic:
          print('listening...')
          
-         audio_data = r.record(mic, duration=10)
+         audio_data = r.record(mic, duration=2)
          Tekst = r.recognize_google(audio_data)
          print("understood")
          print(Tekst)
