@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Basodo
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning arduino
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me. Just don' t
+- 🌱 I’m currently learning c++
+- 💞️ I’m looking to collaborate with my friends
+- 📫 How to reach me. Basakanters@gmail.com
 
 <!---
 Basodo/Basodo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
